@@ -379,11 +379,16 @@ a:hover{
 .stay-container{
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
+    justify-content: center;
     margin: 20vh 0;
+    text-align: center;
 }
 .stay-item .text{
     margin: 20px 0;
+    text-align: center;
+}
+.stay-item .text br {
+    margin-bottom: 10px; /* Add space after each <br> tag */
 }
 .links{
     cursor: pointer;
