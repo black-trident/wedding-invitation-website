@@ -1,7 +1,7 @@
 # Wedding Invitation Website
 
 
-## Frontend Web project on Wedding invitation to GurAman's Wedding
+## Frontend Web project on Wedding invitation to NamrathaRishik's Wedding
 ![Java](https://user-images.githubusercontent.com/112867859/209871504-40f50a44-479c-4fec-b0a1-ee1b72bfa32b.png)
 
 ### To preview the webpage, [click here](https://wedding-invitation-website.vercel.app/)
