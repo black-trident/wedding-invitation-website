@@ -179,7 +179,7 @@ a:hover{
     justify-content: space-between;
 }
 .home-img{
-    background-image: url("three kings.jpg");
+    background-image: url("three kings church.jpg");
     background-size: cover;
     background-position: center;
 }
@@ -363,7 +363,7 @@ a:hover{
 .hands{
     height: 120vh;
     width: 100%;
-    background-image: url(_DSC8362.jpg);
+    background-image: url("beach pic.jpg");
     background-size: contain;
     background-position: center center;
     background-attachment: fixed;
