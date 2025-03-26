@@ -370,6 +370,13 @@ a:hover{
     background-repeat: no-repeat;
 }
 
+/* Add a media query to target iOS devices and disable background-attachment: fixed */
+@supports (-webkit-touch-callout: none) {
+    .hands {
+        background-attachment: scroll; /* Fallback for iOS */
+    }
+}
+
     /* <===================STAY===================> */
     #stay{
         background-color: var(--grey-color);
